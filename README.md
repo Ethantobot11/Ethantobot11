@@ -1,17 +1,14 @@
 
-### Hi there 👋
+### Ethan et mw sur github 
+### Ethan and mw on github
 
-<!--
-**Ethantobot11/Ethantobot11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lol my channel : https://www.youtube.com/@ethanpater548
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Psych online mobile
+- 🌱 I’m currently learning what seem haxe lol
+- 👯 I’m looking to collaborate on : nothing right now
+- 🤔 I’m looking for help with : who would?
+- 💬 Ask me about : NO
+- 📫 How to reach me: ethantobot7@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ fun fact : im mostly dumb and lazy
