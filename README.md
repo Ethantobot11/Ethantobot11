@@ -13,4 +13,4 @@ lol my channel : https://www.youtube.com/@ethanpater548
 - 😄 Pronouns: he/him
 - ⚡ fun fact : im lazy but always ready to try and help
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ethantobot11)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
